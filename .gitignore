@@ -1,0 +1,16 @@
+# Python
+venv/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.env
+
+# macOS
+.DS_Store
+
+# VS Code
+.vscode/
+
+# DuckDB
+*.duckdb
