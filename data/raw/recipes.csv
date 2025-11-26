@@ -1,0 +1,60 @@
+cookie_sku,ingredient,grams_per_cookie,pack_size
+BAS-CHIP,All-Purpose Flour,30,4
+BAS-CHIP,Butter,12,4
+BAS-CHIP,Sugar,10,4
+BAS-CHIP,Chocolate Chips,15,4
+BAS-SUG,All-Purpose Flour,30,4
+BAS-SUG,Butter,12,4
+BAS-SUG,Sugar,15,4
+DLX-NUTSTUF,All-Purpose Flour,30,4
+DLX-NUTSTUF,Butter,12,4
+DLX-NUTSTUF,Nutella,20,4
+DLX-PBSTUF,All-Purpose Flour,30,4
+DLX-PBSTUF,Butter,12,4
+DLX-PBSTUF,Peanut Butter,20,4
+DLX-PECAN,All-Purpose Flour,30,4
+DLX-PECAN,Butter,12,4
+DLX-PECAN,Pecans,15,4
+DLX-SNICK,All-Purpose Flour,30,4
+DLX-SNICK,Butter,12,4
+DLX-SNICK,Sugar,10,4
+DLX-SNICK,Cinnamon,2,4
+BAS-CHIP,All-Purpose Flour,30,6
+BAS-CHIP,Butter,12,6
+BAS-CHIP,Sugar,10,6
+BAS-CHIP,Chocolate Chips,15,6
+BAS-SUG,All-Purpose Flour,30,6
+BAS-SUG,Butter,12,6
+BAS-SUG,Sugar,15,6
+DLX-NUTSTUF,All-Purpose Flour,30,6
+DLX-NUTSTUF,Butter,12,6
+DLX-NUTSTUF,Nutella,20,6
+DLX-PBSTUF,All-Purpose Flour,30,6
+DLX-PBSTUF,Butter,12,6
+DLX-PBSTUF,Peanut Butter,20,6
+DLX-PECAN,All-Purpose Flour,30,6
+DLX-PECAN,Butter,12,6
+DLX-PECAN,Pecans,15,6
+DLX-SNICK,All-Purpose Flour,30,6
+DLX-SNICK,Butter,12,6
+DLX-SNICK,Sugar,10,6
+DLX-SNICK,Cinnamon,2,6
+BAS-CHIP,All-Purpose Flour,30,12
+BAS-CHIP,Butter,12,12
+BAS-CHIP,Sugar,10,12
+BAS-CHIP,Chocolate Chips,15,12
+BAS-SUG,All-Purpose Flour,30,12
+BAS-SUG,Butter,12,12
+BAS-SUG,Sugar,15,12
+DLX-NUTSTUF,All-Purpose Flour,30,12
+DLX-NUTSTUF,Butter,12,12
+DLX-NUTSTUF,Nutella,20,12
+DLX-PBSTUF,All-Purpose Flour,30,12
+DLX-PBSTUF,Butter,12,12
+DLX-PECAN,All-Purpose Flour,30,12
+DLX-PECAN,Butter,12,12
+DLX-PECAN,Pecans,15,12
+DLX-SNICK,All-Purpose Flour,30,12
+DLX-SNICK,Butter,12,12
+DLX-SNICK,Sugar,10,12
+DLX-SNICK,Cinnamon,2,12
