@@ -1,0 +1,7 @@
+cookie_sku,title,cost,variants
+BAS-CHIP,Chocolate Chip,0.75,"[4, 6, 12]"
+BAS-SUG,Sugar,0.65,"[4, 6, 12]"
+DLX-NUTSTUF,Nutella Stuffed,0.9,"[4, 6, 12]"
+DLX-PBSTUF,Peanut Butter Stuffed,0.85,"[4, 6, 12]"
+DLX-PECAN,Pecan Chocolate Chip,0.95,"[4, 6, 12]"
+DLX-SNICK,Snickerdoodle,0.7,"[4, 6, 12]"

@@ -1,0 +1,9 @@
+ingredient,unit,unit_cost,unit_size,unit_size_unit,vendor
+Flour,grams,0.002,1000,grams,King Arthur
+Sugar,grams,0.0015,1000,grams,C&H
+Butter,grams,0.01,454,grams,Kerrygold
+Chocolate Chips,grams,0.02,500,grams,Ghirardelli
+Nutella,grams,0.03,350,grams,Nutella Inc.
+Peanut Butter,grams,0.015,500,grams,Jif
+Pecans,grams,0.025,200,grams,Diamond
+Cinnamon,grams,0.03,100,grams,McCormick
