@@ -1,2 +1,3 @@
-# cookie-pipeline
-Project organizing and structuring data for a small cookie baking business.
+Here is my ER diagram for the main data I'll be organizing for the business:
+! [ER Diagram] (/docs/Cookie_ERD.png)
+
