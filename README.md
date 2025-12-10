@@ -130,3 +130,14 @@ Lastly, the script defines and then calls a "main" function that puts all the ET
 
 # Quality Check
 The checktables.py script makes sure each of the dimension and fact tables generated is ready to be used. It shows a column name/data type/row count summary for each, and then defines and calls functions to check for duplicates, nulls, positive values, and check all foreign keys. This makes sure the data is ready to be stored and then analyzed.
+
+# Inspect Warehouse Script
+This script produces a clean, easy-to-copy list of each table created in the warehouse, including their column names and data types, in preparation for loading them to the SQL database.
+
+# Create tables in MySQLWorkbench database
+I've set up a local MySQL database called cookie_database, and in MySQLWorkbench, I created tables within it that correspond to the ones I made in /warehouse.
+
+# Load to MySQLWorkbench Script
+This script loads data from all the tables in /warehouse, into the tables I created in the cookie_database.
+
+*** These last few steps need work - some features are not matching up from /warehouse to the tables in MSW.

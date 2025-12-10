@@ -1,0 +1,42 @@
+                 DIM_CUSTOMER
+                 -------------
+                 customer_id
+                 customer_email
+                 first_order_date
+                 last_order_date
+                       |
+                       |
+                       v
+                    FACT_SALES
+                    ----------
+                    sales_id
+                    order_id
+                    date_id
+                    customer_id
+                    product_id
+                    quantity
+                    pack_size
+                    cookies_sold
+                    unit_price
+                    revenue
+                       |
+                       |
+                       v
+           FACT_INGREDIENT_USAGE
+           ---------------------
+           usage_id
+           order_id
+           product_id
+           ingredient_id
+           grams_used
+           ingredient_cost
+          /             \
+         /               \
+        v                 v
+  DIM_PRODUCT         DIM_INGREDIENT
+  -----------         -------------
+  product_id          ingredient_id
+  cookie_sku          ingredient
+  title               unit
+  cost                cost_per_gram
+  variants            vendor
