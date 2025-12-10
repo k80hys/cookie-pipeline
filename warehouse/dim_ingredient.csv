@@ -1,0 +1,9 @@
+ingredient_id,ingredient,unit,cost_per_gram,vendor
+1,Flour,grams,2e-06,King Arthur
+2,Sugar,grams,1.5e-06,C&H
+3,Butter,grams,2.2026431718061676e-05,Kerrygold
+4,Chocolate Chips,grams,4e-05,Ghirardelli
+5,Nutella,grams,8.571428571428571e-05,Nutella Inc.
+6,Peanut Butter,grams,2.9999999999999997e-05,Jif
+7,Pecans,grams,0.000125,Diamond
+8,Cinnamon,grams,0.0003,McCormick
